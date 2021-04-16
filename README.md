@@ -13,5 +13,7 @@ My name is Nathan and I love to code and stuff idk why but yes.
 - youtube: https://www.youtube.com/channel/UCWYZLtw17DvFZi_WxeQvVoQ
 - discord server: https://discord.gg/nxEMhR6SKG
 
+![Stats](https://github-readme-stats.vercel.app/api?username=megaboi2005&show_icons=true&theme=vue)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=megaboi2005&layout=compact&theme=vue)
 
 
