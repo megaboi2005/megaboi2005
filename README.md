@@ -4,13 +4,14 @@
 - 👯 I’m looking to collaborate on wearybot with some friends
 - 🤔 I’m looking for help with wearybot
 - 💬 Ask me about my peen size
-- 📫 How to reach me: ok
-- 😄 Pronouns: yes
+- 📫 How to reach me: megaboi#6969 (discord)
+- 😄 Pronouns: yes/no
 - ⚡ Fun fact: I am cripple
--->
-<!--
-**megaboi2005/megaboi2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+about:
+My name is Nathan and I love to code and stuff idk why but yes. 
+- youtube: https://www.youtube.com/channel/UCWYZLtw17DvFZi_WxeQvVoQ
+- discord server: https://discord.gg/nxEMhR6SKG
+
 
 
