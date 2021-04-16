@@ -1,3 +1,4 @@
+[![Banner](https://github.com/megaboi2005/megaboi2005/blob/main/githubbanner.png?raw=true)](https://github.com/megaboi2005/megaboi2005)
 ### Hi there 👋
 - 🔭 I’m currently working on wearybot
 - 🌱 I’m currently learning python and web development 
