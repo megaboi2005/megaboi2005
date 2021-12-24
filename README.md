@@ -2,11 +2,11 @@
 ### Hi there 👋
 - 🔭 I’m currently working on mcpi stuff
 - 🌱 I’m currently learning python and web development 
-- 👯 I’m looking to collaborate on wearybot with some friends
-- 🤔 I’m looking for help with wearybot
+- 👯 I’m looking to collaborate ig
+- 🤔 I’m looking for something to do
 - 💬 Ask me about my peen size
 - 📫 How to reach me: megaboi#2627 (discord)
-- 😄 Pronouns: yes/no
+- 😄 Pronouns: cringe
 - ⚡ Fun fact: I am cripple
 
 about:
