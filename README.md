@@ -1,12 +1,12 @@
 [![Banner](https://github.com/megaboi2005/megaboi2005/blob/main/githubbanner.png?raw=true)](https://github.com/megaboi2005/megaboi2005)
 ### Hi there 👋
-- 🔭 I’m currently working on mcpi stuff
+- 🔭 I’m currently working on idk
 - 🌱 I’m currently learning python and web development 
 - 👯 I’m looking to collaborate ig
 - 🤔 I’m looking for something to do
 - 💬 Ask me about my peen size
 - 📫 How to reach me: megaboi#2627 (discord)
-- 😄 Pronouns: cringe
+- 😄 Pronouns: idk anymore
 - ⚡ Fun fact: I am cripple
 
 about:
