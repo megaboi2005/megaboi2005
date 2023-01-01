@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning anything that I want to
 - 👯 I’m looking to collaborate for  bark-it
 - 🤔 I’m looking for something to do
-- 📫 How to reach me: megaboi#2627 (discord)
+- 📫 How to reach me: mega32#2627 (discord)
 - ⚡ Fun fact: I am not interesting
 
 about:
